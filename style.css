@@ -1,0 +1,138 @@
+body{
+
+    margin:0px;
+    padding: 0px;
+    font-family: 'Poppins', sans-serif;
+    
+}
+
+header{
+
+   
+    width:100%;
+    height: 500px;
+    padding-bottom: 100px;
+    background-image: url("p-images/header-bg.png");
+    
+    
+}
+
+.welcome{
+
+
+    font-weight: bold;
+    color:red;
+    font-family: "Sofia";
+    font-size: 60px;
+    margin-left: 50px;
+    margin-top: 30px;
+  
+
+}
+
+.hello{
+
+    margin-left:300px;
+}
+
+.Rokibul{
+
+    margin-left: 300px;
+}
+
+.self-details {
+
+    margin-left:20px;
+    
+}
+
+.hire-me{
+
+    text-decoration: none;
+    border:1px solid gray;
+    border-radius: 3px;
+    background-color: gray;
+    color:black;
+    background-image: linear-gradient(rgb(233, 119, 102),yellow);
+}
+.hire-me:hover{
+
+    background-image: linear-gradient(black,white);
+}
+
+.half-width img{
+
+   width:70%;
+   margin-left: 100px;
+}
+
+.half-width{
+
+    float: left;
+    width:50%;
+}
+.middle{
+
+   
+    width:100%;
+    height: 600px;
+    background-image: url("p-images/biography-bg.png");
+}
+
+.biography{
+
+    margin-top: 100px;
+}
+
+.latest-work{
+
+    background-image: url("p-images/latest-work-bg.png");
+    padding-bottom: 200px;
+}
+
+.work-pic{
+
+    width:30%;
+    float:left;
+    margin:3px 5px 10px 20px;
+    padding:5px 8px 10px 8px;
+    border:2px solid gray;
+    border-radius: 20px;
+    box-shadow:10px 10px 30px gray;
+}
+
+.client{
+
+    background-image: url("p-images/footer-bg.png");
+    padding-top: 250px;
+}
+
+.bottom-bio{
+
+    height:80px;
+    width:700px;
+    border:1px solid gray;
+    margin-left: 400px;
+    text-align: justify;
+    background-color: gray;
+    border-radius: 15px;
+    
+}
+
+.message{
+
+    border:2px solid white;
+    width:20%;
+    margin-left: 600px;
+    text-align: center;
+    text-decoration: none;
+    background-color: red;
+    font-size: 20px;
+    padding-bottom: 20px;
+}
+
+footer{
+
+    text-align: center;
+    padding-top: 60px;
+}
